@@ -1,0 +1,10 @@
+Student_Id,First_Name,Last_Name,Street_Name,City,State,Zip,CGPA
+100,John,Doe,120 jefferson st.,Riverside, NJ,8075,3.8
+101,Jack,McGinnis,220 hobo Av.,Phila, PA,9119,3.7
+102,John ,Repici,120 Jefferson St.,Riverside, NJ,8075,2.9
+103,Stephen,Tyler,"7452 Terrace ""At the Plaza"" road",SomeTown,SD,91234,4
+104,Ron,Blankman,,SomeTown, SD,298,2.3
+105,Joan ,Jet,"9th, at Terrace plc",Desert City,CO,123,4.2
+106,Robin,Wood,"4, 4th Ave",Seattle,WA,98001,4
+107,Will,,Medina ,Seattle,WA,98111,3.8
+108,Jeff,Bezos,5th Ave,Bellevue,WA,98007,3.8
